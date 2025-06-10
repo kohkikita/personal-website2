@@ -1,7 +1,5 @@
-export default () => {
-    return (
-        <div>
-            npx tailwindcss init -p
-        </div>
+export default function AboutPage() {
+    return(
+        <h1>About Page</h1>
     );
 }
